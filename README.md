@@ -1,4 +1,4 @@
-# Software Absensi Karyawan dengan RFID Arduino Mega Komunikasi PLX DAQ
+# Absensi Karyawan dengan RFID Arduino Mega Komunikasi PLX DAQ
 
 Proyek ini merupakan sistem absensi otomatis berbasis RFID, yang dikembangkan menggunakan Arduino. Sistem ini tidak hanya mencatat kehadiran, tetapi juga mengontrol perangkat seperti lampu, kipas, dan solenoid, serta menampilkan data kehadiran dan suhu ruangan melalui LCD I2C. Sistem juga menggunakan RTC (Real-Time Clock) untuk mencatat waktu secara akurat dan sensor suhu DHT11 untuk mengontrol kipas berdasarkan suhu ruangan. [SKRIPSI Mahasiswa Elektro - UMPO]
 
